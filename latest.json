@@ -1,0 +1,15 @@
+{
+ "desktop": {
+  "version": "1.4.0-beta.7",
+  "manifest": "manifests/1.4.0-beta.7.json",
+  "notes": "\u2022 Phone crop with touch: the frame stays in the middle; one finger moves the photo under it, pinch zooms; drag a corner or edge to resize - when you let go the view zooms to the new frame. Twist with two fingers or use the straighten dial (it clicks at 0\u00b0, tap the angle for 0\u00b0). A thirds grid while you touch, a fine grid while you straighten. Shapes follow Portrait / Landscape (4:5 reads 5:4 when turned), the label shows the real size.\n\u2022 Wording: 30 texts shorter and clearer, on the computer and the phone alike."
+ },
+ "android": {
+  "version": "1.4.0-beta.7",
+  "code": 11,
+  "apk": "blobs/0092d19e5bf73ee041d52fc7edc648db092e892cae1c103267a2419d8b4f2124.apk",
+  "sha256": "0092d19e5bf73ee041d52fc7edc648db092e892cae1c103267a2419d8b4f2124",
+  "size": 59028449,
+  "notes": "\u2022 Phone crop with touch: the frame stays in the middle; one finger moves the photo under it, pinch zooms; drag a corner or edge to resize - when you let go the view zooms to the new frame. Twist with two fingers or use the straighten dial (it clicks at 0\u00b0, tap the angle for 0\u00b0). A thirds grid while you touch, a fine grid while you straighten. Shapes follow Portrait / Landscape (4:5 reads 5:4 when turned), the label shows the real size.\n\u2022 Wording: 30 texts shorter and clearer, on the computer and the phone alike."
+ }
+}
