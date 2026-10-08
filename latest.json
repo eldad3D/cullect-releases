@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.4.0-beta.9",
-  "manifest": "manifests/1.4.0-beta.9.json",
-  "notes": "\u2022 New app icon (the lion) for Windows (Cullect.exe, taskbar, window) and Android (launcher, adaptive / round).\n\u2022 Shape tags in the filters (Composition \u2192 Shape): Landscape / Portrait / Square / Panorama and the ratio (3:2, 4:3, 16:9, 4:5\u2026). A cropped photo has both - the original's shape and the crop's - plus \"Cropped\".\n\u2022 Phone: recent folders on the start screen and when you tap the folder name; hold a photo in the viewer for the menu (share, copy, album, crop, go with the AI, info, place); double-tap in the grid = \u2605 favourite; Undo shows the photo that came back; the decision frame follows the phone's real edge and corners; tidier top bar.\n\u2022 Subfolders are included by default (a whole card / trip folder at once).\n\u2022 AI picks: the AI marks most photos by default (\u2265 20 % sure) - slide it right for fewer, surer marks."
+  "version": "1.4.0-beta.10",
+  "manifest": "manifests/1.4.0-beta.10.json",
+  "notes": "\u2022 \u2605 Suggest favourites (AI menu on the computer, \u22ee on the phone): the strongest photos of the folder - top 10, 50, 100 or the best 10 % - for you to approve. A harsh critic (no soft, badly exposed, cut-off or eyes-closed shots, nothing you or the AI discarded), one per burst / similar set, scored by sharpness, subject, the AI and your own style, with variety: the same subject again counts less. Every pick says why. All ticked - untick and make them \u2605 in one go (Ctrl+Z undoes).\n\u2022 Smart Best Shot: the recommended frame of each burst now says all it won on - sharpest subject, eyes open, whole subject in the frame, largest subject, best exposure, your kind of photo.\n\u2022 Going back after an update (computer): Settings \u2192 Updates \u2192 \"Go back to \u2026\" puts the previous version back (it is kept by every update) and restarts; you can switch forward again. \"Skip this version\" stops the offer.\n\u2022 New app icon (Windows and Android)."
  },
  "android": {
-  "version": "1.4.0-beta.9",
-  "code": 13,
-  "apk": "blobs/9f83effd60c63ca4fb0a5fe9bdeb1a9a3c6e4bbde85454e3200d7b801ca65f6e.apk",
-  "sha256": "9f83effd60c63ca4fb0a5fe9bdeb1a9a3c6e4bbde85454e3200d7b801ca65f6e",
-  "size": 59661764,
-  "notes": "\u2022 New app icon (the lion) for Windows (Cullect.exe, taskbar, window) and Android (launcher, adaptive / round).\n\u2022 Shape tags in the filters (Composition \u2192 Shape): Landscape / Portrait / Square / Panorama and the ratio (3:2, 4:3, 16:9, 4:5\u2026). A cropped photo has both - the original's shape and the crop's - plus \"Cropped\".\n\u2022 Phone: recent folders on the start screen and when you tap the folder name; hold a photo in the viewer for the menu (share, copy, album, crop, go with the AI, info, place); double-tap in the grid = \u2605 favourite; Undo shows the photo that came back; the decision frame follows the phone's real edge and corners; tidier top bar.\n\u2022 Subfolders are included by default (a whole card / trip folder at once).\n\u2022 AI picks: the AI marks most photos by default (\u2265 20 % sure) - slide it right for fewer, surer marks."
+  "version": "1.4.0-beta.10",
+  "code": 14,
+  "apk": "blobs/b06c260d8813bd85308070b3781f81d123fa1ee4f16d974346e0959dae564a86.apk",
+  "sha256": "b06c260d8813bd85308070b3781f81d123fa1ee4f16d974346e0959dae564a86",
+  "size": 59335388,
+  "notes": "\u2022 \u2605 Suggest favourites (AI menu on the computer, \u22ee on the phone): the strongest photos of the folder - top 10, 50, 100 or the best 10 % - for you to approve. A harsh critic (no soft, badly exposed, cut-off or eyes-closed shots, nothing you or the AI discarded), one per burst / similar set, scored by sharpness, subject, the AI and your own style, with variety: the same subject again counts less. Every pick says why. All ticked - untick and make them \u2605 in one go (Ctrl+Z undoes).\n\u2022 Smart Best Shot: the recommended frame of each burst now says all it won on - sharpest subject, eyes open, whole subject in the frame, largest subject, best exposure, your kind of photo.\n\u2022 Going back after an update (computer): Settings \u2192 Updates \u2192 \"Go back to \u2026\" puts the previous version back (it is kept by every update) and restarts; you can switch forward again. \"Skip this version\" stops the offer.\n\u2022 New app icon (Windows and Android)."
  }
 }
