@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.4.0-beta.11",
-  "manifest": "manifests/1.4.0-beta.11.json",
-  "notes": "\u2022 Suggest favourites said \"still being analysed\" after the analysis had finished - fixed.\n\u2022 The offline AI is offered once when you first open a folder (Download / Later) - it is a 400 MB download, so it never comes without asking (later: AI menu \u2192 AI settings \u2192 Offline AI models\u2026)."
+  "version": "1.4.0-beta.12",
+  "manifest": "manifests/1.4.0-beta.12.json",
+  "notes": "\u2022 \u2605 Suggest favourites is now a mode of the grid, not a window (computer and phone): the grid shows only the suggestions, each with a dashed yellow frame; take one with F (computer) or a double-tap (phone) and it turns solid \u2605. Everything else works as usual - thumbnail size, viewer, zoom, compare, the details panel (which says why each one is suggested). A bar on top: how many (Top 10 / 25 / 50 / 100 - only sizes that fit - or All strong with the count: only photos that pass the quality bar, one per burst / similar set), what is taken, \"Make the other N \u2605\", Close / Done."
  },
  "android": {
-  "version": "1.4.0-beta.11",
-  "code": 15,
-  "apk": "blobs/ce83538aa29c998c09ca8019ccd9c09814642260fbfd165745c12ef43c99d36b.apk",
-  "sha256": "ce83538aa29c998c09ca8019ccd9c09814642260fbfd165745c12ef43c99d36b",
-  "size": 59335384,
-  "notes": "\u2022 Suggest favourites said \"still being analysed\" after the analysis had finished - fixed.\n\u2022 The offline AI is offered once when you first open a folder (Download / Later) - it is a 400 MB download, so it never comes without asking (later: AI menu \u2192 AI settings \u2192 Offline AI models\u2026)."
+  "version": "1.4.0-beta.12",
+  "code": 16,
+  "apk": "blobs/f6fa2024cc560c2960f54ae38449c744b245203c9f13386e5401ae9b1cdf00c3.apk",
+  "sha256": "f6fa2024cc560c2960f54ae38449c744b245203c9f13386e5401ae9b1cdf00c3",
+  "size": 59335388,
+  "notes": "\u2022 \u2605 Suggest favourites is now a mode of the grid, not a window (computer and phone): the grid shows only the suggestions, each with a dashed yellow frame; take one with F (computer) or a double-tap (phone) and it turns solid \u2605. Everything else works as usual - thumbnail size, viewer, zoom, compare, the details panel (which says why each one is suggested). A bar on top: how many (Top 10 / 25 / 50 / 100 - only sizes that fit - or All strong with the count: only photos that pass the quality bar, one per burst / similar set), what is taken, \"Make the other N \u2605\", Close / Done."
  }
 }
