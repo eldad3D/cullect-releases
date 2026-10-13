@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.4.0-beta.15",
-  "manifest": "manifests/1.4.0-beta.15.json",
-  "notes": "\u2022 Moving to _keep / _discarded takes every file with the photo's name - looked up in the folder at that moment, so files an editor wrote after the scan (RapidRAW .rrdata, .xmp, .dop\u2026) go along too; undo brings them all back. A different photo (IMG_10, \"IMG_1 (1)\") is never taken along.\n\u2022 Editor files left behind earlier are found after a scan; Cullect asks once whether to move them to their photos (nothing is overwritten)."
+  "version": "1.4.0-beta.16",
+  "manifest": "manifests/1.4.0-beta.16.json",
+  "notes": "\u2022 Memory cards are read gently: a folder on a card (a removable drive in Windows) is analysed 2 photos at a time instead of 6 - cards, and old card readers that do not really support today's large cards, drop out when read hard. Disks and USB SSDs keep full speed.\n\u2022 A card that stops responding stops the analysis with one clear warning instead of thousands of \"could not be analysed\" errors: Cullect did not change any photo; don't format the card or shoot on it; safely remove it, try another reader or the camera's cable, copy the photos first (Backup & Verify); recovery tools such as PhotoRec can often get lost photos back while nothing new is written to the card. Damaged photos are not mistaken for it. (Phone: a short message.)\n\u2022 Nothing more is written to a card that dropped out (the .cullect file) until its folder is opened again.\n\u2022 New tests prove that opening, scanning, analysing and saving leave every photo byte-for-byte identical - the only file Cullect adds to a folder is .cullect/cullect.json."
  },
  "android": {
-  "version": "1.4.0-beta.15",
-  "code": 19,
-  "apk": "blobs/15b57fe6bd3bc0e59e66ec4871436d5b54de6e733c061927679587f6d382b73a.apk",
-  "sha256": "15b57fe6bd3bc0e59e66ec4871436d5b54de6e733c061927679587f6d382b73a",
-  "size": 59351772,
-  "notes": "\u2022 Moving to _keep / _discarded takes every file with the photo's name - looked up in the folder at that moment, so files an editor wrote after the scan (RapidRAW .rrdata, .xmp, .dop\u2026) go along too; undo brings them all back. A different photo (IMG_10, \"IMG_1 (1)\") is never taken along.\n\u2022 Editor files left behind earlier are found after a scan; Cullect asks once whether to move them to their photos (nothing is overwritten)."
+  "version": "1.4.0-beta.16",
+  "code": 20,
+  "apk": "blobs/ab41b1356f7aa1917213f93e129db8118eafc1d27f7e24996bcb59925fbe2427.apk",
+  "sha256": "ab41b1356f7aa1917213f93e129db8118eafc1d27f7e24996bcb59925fbe2427",
+  "size": 59351768,
+  "notes": "\u2022 Memory cards are read gently: a folder on a card (a removable drive in Windows) is analysed 2 photos at a time instead of 6 - cards, and old card readers that do not really support today's large cards, drop out when read hard. Disks and USB SSDs keep full speed.\n\u2022 A card that stops responding stops the analysis with one clear warning instead of thousands of \"could not be analysed\" errors: Cullect did not change any photo; don't format the card or shoot on it; safely remove it, try another reader or the camera's cable, copy the photos first (Backup & Verify); recovery tools such as PhotoRec can often get lost photos back while nothing new is written to the card. Damaged photos are not mistaken for it. (Phone: a short message.)\n\u2022 Nothing more is written to a card that dropped out (the .cullect file) until its folder is opened again.\n\u2022 New tests prove that opening, scanning, analysing and saving leave every photo byte-for-byte identical - the only file Cullect adds to a folder is .cullect/cullect.json."
  }
 }
