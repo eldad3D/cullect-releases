@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.5.0-beta.3",
-  "manifest": "manifests/1.5.0-beta.3.json",
-  "notes": "\u2022 Albums have their own place: an ALBUMS section in the left sidebar (like Lightroom's Collections) - each album with its cover, name and count. Click = only that album, with an \"Album: \u2026 \u2715 Show all photos\" bar on top; drag photos onto an album to add them; right-click = rename, note, target album, Send to Library, copy, delete (photos stay); + = new album from the selection.\n\u2022 Target album \u25ce + Ctrl+B adds the selected photos (or takes them out again).\n\u2022 Albums card in the right panel (album names, \u2715 to take out, + Add to album\u2026) and a small album badge on thumbnails. Albums no longer show as a tag chip / in the tags.\n\u2022 Drag photos out of the grid / filmstrip into Explorer or a chat: copies of their JPEGs (never moved).\n\u2022 Albums made or changed in Studio come back to Cullect from the Library (newest change wins)."
+  "version": "1.5.0-beta.4",
+  "manifest": "manifests/1.5.0-beta.4.json",
+  "notes": "\u2022 Review sidebar, to the finish line: ALBUMS moved up - between the numbers and Continue review, set apart by lines - and it folds (\u25be). The set list under \"Choose best from sets\" folds with its own chevron, and so does More review tools. Every task and tool has a thin progress line that fills up (green when finished); finished ones are crossed out with a \u2713. Hide done (next to \"3 of 9 done\") leaves only what is still to do. Folds and Hide done are remembered; everything starts folded (open what you need)."
  },
  "android": {
-  "version": "1.5.0-beta.3",
-  "code": 23,
-  "apk": "blobs/944109e93b3384364130d9e67253e8149800756dd4e2a3e00f35a0f8524c9511.apk",
-  "sha256": "944109e93b3384364130d9e67253e8149800756dd4e2a3e00f35a0f8524c9511",
-  "size": 59384536,
-  "notes": "\u2022 Albums have their own place: an ALBUMS section in the left sidebar (like Lightroom's Collections) - each album with its cover, name and count. Click = only that album, with an \"Album: \u2026 \u2715 Show all photos\" bar on top; drag photos onto an album to add them; right-click = rename, note, target album, Send to Library, copy, delete (photos stay); + = new album from the selection.\n\u2022 Target album \u25ce + Ctrl+B adds the selected photos (or takes them out again).\n\u2022 Albums card in the right panel (album names, \u2715 to take out, + Add to album\u2026) and a small album badge on thumbnails. Albums no longer show as a tag chip / in the tags.\n\u2022 Drag photos out of the grid / filmstrip into Explorer or a chat: copies of their JPEGs (never moved).\n\u2022 Albums made or changed in Studio come back to Cullect from the Library (newest change wins)."
+  "version": "1.5.0-beta.4",
+  "code": 24,
+  "apk": "blobs/3e6adff0fead94d9e7aa9d25d5fcfd2d90b004a1fc69980f8380361230062ae9.apk",
+  "sha256": "3e6adff0fead94d9e7aa9d25d5fcfd2d90b004a1fc69980f8380361230062ae9",
+  "size": 59384540,
+  "notes": "\u2022 Review sidebar, to the finish line: ALBUMS moved up - between the numbers and Continue review, set apart by lines - and it folds (\u25be). The set list under \"Choose best from sets\" folds with its own chevron, and so does More review tools. Every task and tool has a thin progress line that fills up (green when finished); finished ones are crossed out with a \u2713. Hide done (next to \"3 of 9 done\") leaves only what is still to do. Folds and Hide done are remembered; everything starts folded (open what you need)."
  }
 }
