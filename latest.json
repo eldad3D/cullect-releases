@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.5.0-beta.5",
-  "manifest": "manifests/1.5.0-beta.5.json",
-  "notes": "\u2022 The same Library as Curish and Wildframe: Send to Library now goes to Dropbox\\projects\\PhotoLibrary by default (Pictures\\Library on a computer without Dropbox) - the folder the other apps use. A folder you chose yourself in Settings stays as it is.\n\u2022 Photos added by hand (copied into the Library in Explorer): sending the same photo from Cullect no longer makes a \"(1)\" copy - its data goes next to the file that is already there. Culling a folder inside the Library never moves files into _keep / _discarded (your decisions are saved; Curish and the other apps keep finding the files).\n\u2022 Where each photo came from is kept in its data: the folder, the drive's name, the drive's serial number and the path on the drive - so it is found again when the card or drive gets another letter - and which program brought it.\n\u2022 Saving a photo's data retries for a moment when Windows briefly holds the file (antivirus, Dropbox)."
+  "version": "1.5.0-beta.6",
+  "manifest": "manifests/1.5.0-beta.6.json",
+  "notes": "\u2022 beta.5's program files could include unfinished changes that were being made at the moment it was built; beta.6 is built from exactly the tested beta.5 code. Nothing new."
  },
  "android": {
-  "version": "1.5.0-beta.5",
-  "code": 25,
-  "apk": "blobs/bc3e690d9dab0d478ff0a4ea977f13c5773f7f3a90d48c0340f9a5f69bf08469.apk",
-  "sha256": "bc3e690d9dab0d478ff0a4ea977f13c5773f7f3a90d48c0340f9a5f69bf08469",
+  "version": "1.5.0-beta.6",
+  "code": 26,
+  "apk": "blobs/270fe4bb3b663025731982172d15ad4e0ad1090ba7346cee29c097674fa55f80.apk",
+  "sha256": "270fe4bb3b663025731982172d15ad4e0ad1090ba7346cee29c097674fa55f80",
   "size": 59384536,
-  "notes": "\u2022 The same Library as Curish and Wildframe: Send to Library now goes to Dropbox\\projects\\PhotoLibrary by default (Pictures\\Library on a computer without Dropbox) - the folder the other apps use. A folder you chose yourself in Settings stays as it is.\n\u2022 Photos added by hand (copied into the Library in Explorer): sending the same photo from Cullect no longer makes a \"(1)\" copy - its data goes next to the file that is already there. Culling a folder inside the Library never moves files into _keep / _discarded (your decisions are saved; Curish and the other apps keep finding the files).\n\u2022 Where each photo came from is kept in its data: the folder, the drive's name, the drive's serial number and the path on the drive - so it is found again when the card or drive gets another letter - and which program brought it.\n\u2022 Saving a photo's data retries for a moment when Windows briefly holds the file (antivirus, Dropbox)."
+  "notes": "\u2022 beta.5's program files could include unfinished changes that were being made at the moment it was built; beta.6 is built from exactly the tested beta.5 code. Nothing new."
  }
 }
