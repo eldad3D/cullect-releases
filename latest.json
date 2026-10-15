@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.5.0-beta.4",
-  "manifest": "manifests/1.5.0-beta.4.json",
-  "notes": "\u2022 Review sidebar, to the finish line: ALBUMS moved up - between the numbers and Continue review, set apart by lines - and it folds (\u25be). The set list under \"Choose best from sets\" folds with its own chevron, and so does More review tools. Every task and tool has a thin progress line that fills up (green when finished); finished ones are crossed out with a \u2713. Hide done (next to \"3 of 9 done\") leaves only what is still to do. Folds and Hide done are remembered; everything starts folded (open what you need)."
+  "version": "1.5.0-beta.5",
+  "manifest": "manifests/1.5.0-beta.5.json",
+  "notes": "\u2022 The same Library as Curish and Wildframe: Send to Library now goes to Dropbox\\projects\\PhotoLibrary by default (Pictures\\Library on a computer without Dropbox) - the folder the other apps use. A folder you chose yourself in Settings stays as it is.\n\u2022 Photos added by hand (copied into the Library in Explorer): sending the same photo from Cullect no longer makes a \"(1)\" copy - its data goes next to the file that is already there. Culling a folder inside the Library never moves files into _keep / _discarded (your decisions are saved; Curish and the other apps keep finding the files).\n\u2022 Where each photo came from is kept in its data: the folder, the drive's name, the drive's serial number and the path on the drive - so it is found again when the card or drive gets another letter - and which program brought it.\n\u2022 Saving a photo's data retries for a moment when Windows briefly holds the file (antivirus, Dropbox)."
  },
  "android": {
-  "version": "1.5.0-beta.4",
-  "code": 24,
-  "apk": "blobs/3e6adff0fead94d9e7aa9d25d5fcfd2d90b004a1fc69980f8380361230062ae9.apk",
-  "sha256": "3e6adff0fead94d9e7aa9d25d5fcfd2d90b004a1fc69980f8380361230062ae9",
-  "size": 59384540,
-  "notes": "\u2022 Review sidebar, to the finish line: ALBUMS moved up - between the numbers and Continue review, set apart by lines - and it folds (\u25be). The set list under \"Choose best from sets\" folds with its own chevron, and so does More review tools. Every task and tool has a thin progress line that fills up (green when finished); finished ones are crossed out with a \u2713. Hide done (next to \"3 of 9 done\") leaves only what is still to do. Folds and Hide done are remembered; everything starts folded (open what you need)."
+  "version": "1.5.0-beta.5",
+  "code": 25,
+  "apk": "blobs/bc3e690d9dab0d478ff0a4ea977f13c5773f7f3a90d48c0340f9a5f69bf08469.apk",
+  "sha256": "bc3e690d9dab0d478ff0a4ea977f13c5773f7f3a90d48c0340f9a5f69bf08469",
+  "size": 59384536,
+  "notes": "\u2022 The same Library as Curish and Wildframe: Send to Library now goes to Dropbox\\projects\\PhotoLibrary by default (Pictures\\Library on a computer without Dropbox) - the folder the other apps use. A folder you chose yourself in Settings stays as it is.\n\u2022 Photos added by hand (copied into the Library in Explorer): sending the same photo from Cullect no longer makes a \"(1)\" copy - its data goes next to the file that is already there. Culling a folder inside the Library never moves files into _keep / _discarded (your decisions are saved; Curish and the other apps keep finding the files).\n\u2022 Where each photo came from is kept in its data: the folder, the drive's name, the drive's serial number and the path on the drive - so it is found again when the card or drive gets another letter - and which program brought it.\n\u2022 Saving a photo's data retries for a moment when Windows briefly holds the file (antivirus, Dropbox)."
  }
 }
