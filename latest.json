@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.5.0-beta.6",
-  "manifest": "manifests/1.5.0-beta.6.json",
-  "notes": "\u2022 beta.5's program files could include unfinished changes that were being made at the moment it was built; beta.6 is built from exactly the tested beta.5 code. Nothing new."
+  "version": "1.5.0-beta.7",
+  "manifest": "manifests/1.5.0-beta.7.json",
+  "notes": "\u2022 Select several albums in the sidebar like in Explorer: Ctrl+click adds / removes one, Shift+click a run. Right-click them: add the selected photos to all, Send their photos to Library, copy them to a folder, or delete them all (the photos always stay). Deletes reach the Library at once, so Curish and the other apps drop those albums too."
  },
  "android": {
-  "version": "1.5.0-beta.6",
-  "code": 26,
-  "apk": "blobs/270fe4bb3b663025731982172d15ad4e0ad1090ba7346cee29c097674fa55f80.apk",
-  "sha256": "270fe4bb3b663025731982172d15ad4e0ad1090ba7346cee29c097674fa55f80",
-  "size": 59384536,
-  "notes": "\u2022 beta.5's program files could include unfinished changes that were being made at the moment it was built; beta.6 is built from exactly the tested beta.5 code. Nothing new."
+  "version": "1.5.0-beta.7",
+  "code": 27,
+  "apk": "blobs/0350f25fb68fe3f110bf865adda0e388fa69c16b217a9087ab8ff99458b29c34.apk",
+  "sha256": "0350f25fb68fe3f110bf865adda0e388fa69c16b217a9087ab8ff99458b29c34",
+  "size": 59384544,
+  "notes": "\u2022 Select several albums in the sidebar like in Explorer: Ctrl+click adds / removes one, Shift+click a run. Right-click them: add the selected photos to all, Send their photos to Library, copy them to a folder, or delete them all (the photos always stay). Deletes reach the Library at once, so Curish and the other apps drop those albums too."
  }
 }
