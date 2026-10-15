@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.5.0-beta.7",
-  "manifest": "manifests/1.5.0-beta.7.json",
-  "notes": "\u2022 Select several albums in the sidebar like in Explorer: Ctrl+click adds / removes one, Shift+click a run. Right-click them: add the selected photos to all, Send their photos to Library, copy them to a folder, or delete them all (the photos always stay). Deletes reach the Library at once, so Curish and the other apps drop those albums too."
+  "version": "1.5.0-beta.8",
+  "manifest": "manifests/1.5.0-beta.8.json",
+  "notes": "\u2022 A new icon in the photo family's look (like Curish): the dark rounded tile, a warm sunrise photo and gold - and Cullect's own sign: a small stack of photos with the chosen one marked by a green Keep check. Windows (taskbar, shortcuts, window) and the phone. Made by tools/make_icon.py.\n\u2022 First install: the newest portable zip and phone app are now also on the releases page."
  },
  "android": {
-  "version": "1.5.0-beta.7",
-  "code": 27,
-  "apk": "blobs/0350f25fb68fe3f110bf865adda0e388fa69c16b217a9087ab8ff99458b29c34.apk",
-  "sha256": "0350f25fb68fe3f110bf865adda0e388fa69c16b217a9087ab8ff99458b29c34",
-  "size": 59384544,
-  "notes": "\u2022 Select several albums in the sidebar like in Explorer: Ctrl+click adds / removes one, Shift+click a run. Right-click them: add the selected photos to all, Send their photos to Library, copy them to a folder, or delete them all (the photos always stay). Deletes reach the Library at once, so Curish and the other apps drop those albums too."
+  "version": "1.5.0-beta.8",
+  "code": 28,
+  "apk": "blobs/efd53c14b489353f1a9c920b49689df340dfa3903baebdbcb2a23728ecba63f4.apk",
+  "sha256": "efd53c14b489353f1a9c920b49689df340dfa3903baebdbcb2a23728ecba63f4",
+  "size": 59198432,
+  "notes": "\u2022 A new icon in the photo family's look (like Curish): the dark rounded tile, a warm sunrise photo and gold - and Cullect's own sign: a small stack of photos with the chosen one marked by a green Keep check. Windows (taskbar, shortcuts, window) and the phone. Made by tools/make_icon.py.\n\u2022 First install: the newest portable zip and phone app are now also on the releases page."
  }
 }
