@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.5.0-beta.14",
-  "manifest": "manifests/1.5.0-beta.14.json",
-  "notes": "\u2022 Updates from inside Cullect work again. In beta.12 the check always said \"no internet\" (the signature check could not start in the portable build). Install this version once by hand; later updates come in by themselves.\n\u2022 beta.13's dashboard, quick buttons, menu, slideshow keys and Send to Curish change, now together with beta.12's speed work and signed updates (beta.13 had left those out)."
+  "version": "1.5.0-beta.15",
+  "manifest": "manifests/1.5.0-beta.15.json",
+  "notes": "\u2022 Slideshow fades in from your screen straight to the first photo - no black flash.\n\u2022 Dashboard pace counts only culling: slideshow time is never counted, and neither are pauses longer than 12 s.\n\u2022 (Test: this version should arrive by itself through Settings \u2192 Updates.)"
  },
  "android": {
-  "version": "1.5.0-beta.14",
-  "code": 34,
-  "apk": "blobs/294963b908fe25cb3c2f5d67ed658a371b6d5d8b05a94c836df77842490b7ede.apk",
-  "sha256": "294963b908fe25cb3c2f5d67ed658a371b6d5d8b05a94c836df77842490b7ede",
-  "size": 59214816,
-  "notes": "\u2022 Updates from inside Cullect work again. In beta.12 the check always said \"no internet\" (the signature check could not start in the portable build). Install this version once by hand; later updates come in by themselves.\n\u2022 beta.13's dashboard, quick buttons, menu, slideshow keys and Send to Curish change, now together with beta.12's speed work and signed updates (beta.13 had left those out)."
+  "version": "1.5.0-beta.15",
+  "code": 35,
+  "apk": "blobs/d387d98af6e21c09b21e587e5da195ecbaab794919b10b42b7a6768d443ebf37.apk",
+  "sha256": "d387d98af6e21c09b21e587e5da195ecbaab794919b10b42b7a6768d443ebf37",
+  "size": 59214820,
+  "notes": "\u2022 Slideshow fades in from your screen straight to the first photo - no black flash.\n\u2022 Dashboard pace counts only culling: slideshow time is never counted, and neither are pauses longer than 12 s.\n\u2022 (Test: this version should arrive by itself through Settings \u2192 Updates.)"
  }
 }
