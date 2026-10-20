@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.5.0-beta.13",
-  "manifest": "manifests/1.5.0-beta.13.json",
-  "notes": "\u2022 Culling dashboard, redone: the \ud83d\udcca button in the top bar. Four big numbers - time spent, pace (seconds per photo), photos sorted and keep rate - then the funnel and keep / discard / undecided now; the rest in one small line. Closes with \u2715, Esc or a click outside.\n\u2022 Session log: sort by any column (\u25b2 \u25bc), scrolls; click a session to see everything recorded under it and rename it there. Pace shows \u25b2 faster / \u25bc slower than the session before. The log is also kept as culling-log.json with your data backups.\n\u2022 Top bar: \u25b6 Slideshow and \ud83d\udcca Dashboard as icons (names on hover); Backup has a card \u2192 drive icon. Tools and Settings are one shorter menu, in groups.\n\u2022 Slideshow: mouse wheel or \u2190 \u2192 = previous / next photo, \u2193 = show it in Explorer. Anything else stops it, as before.\n\u2022 Send to Curish no longer copies the photo: it stays where it is; only its data goes into the Library (a link), so Curish edits the original non-destructively."
+  "version": "1.5.0-beta.14",
+  "manifest": "manifests/1.5.0-beta.14.json",
+  "notes": "\u2022 Updates from inside Cullect work again. In beta.12 the check always said \"no internet\" (the signature check could not start in the portable build). Install this version once by hand; later updates come in by themselves.\n\u2022 beta.13's dashboard, quick buttons, menu, slideshow keys and Send to Curish change, now together with beta.12's speed work and signed updates (beta.13 had left those out)."
  },
  "android": {
-  "version": "1.5.0-beta.13",
-  "code": 33,
-  "apk": "blobs/5a999b5934b9d5e6de2e25ae4ec96139fcdd099594733d51460d6a2a84dacce3.apk",
-  "sha256": "5a999b5934b9d5e6de2e25ae4ec96139fcdd099594733d51460d6a2a84dacce3",
-  "size": 59214820,
-  "notes": "\u2022 Culling dashboard, redone: the \ud83d\udcca button in the top bar. Four big numbers - time spent, pace (seconds per photo), photos sorted and keep rate - then the funnel and keep / discard / undecided now; the rest in one small line. Closes with \u2715, Esc or a click outside.\n\u2022 Session log: sort by any column (\u25b2 \u25bc), scrolls; click a session to see everything recorded under it and rename it there. Pace shows \u25b2 faster / \u25bc slower than the session before. The log is also kept as culling-log.json with your data backups.\n\u2022 Top bar: \u25b6 Slideshow and \ud83d\udcca Dashboard as icons (names on hover); Backup has a card \u2192 drive icon. Tools and Settings are one shorter menu, in groups.\n\u2022 Slideshow: mouse wheel or \u2190 \u2192 = previous / next photo, \u2193 = show it in Explorer. Anything else stops it, as before.\n\u2022 Send to Curish no longer copies the photo: it stays where it is; only its data goes into the Library (a link), so Curish edits the original non-destructively."
+  "version": "1.5.0-beta.14",
+  "code": 34,
+  "apk": "blobs/294963b908fe25cb3c2f5d67ed658a371b6d5d8b05a94c836df77842490b7ede.apk",
+  "sha256": "294963b908fe25cb3c2f5d67ed658a371b6d5d8b05a94c836df77842490b7ede",
+  "size": 59214816,
+  "notes": "\u2022 Updates from inside Cullect work again. In beta.12 the check always said \"no internet\" (the signature check could not start in the portable build). Install this version once by hand; later updates come in by themselves.\n\u2022 beta.13's dashboard, quick buttons, menu, slideshow keys and Send to Curish change, now together with beta.12's speed work and signed updates (beta.13 had left those out)."
  }
 }
