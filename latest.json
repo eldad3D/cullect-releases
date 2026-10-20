@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.5.0-beta.15",
-  "manifest": "manifests/1.5.0-beta.15.json",
-  "notes": "\u2022 Slideshow fades in from your screen straight to the first photo - no black flash.\n\u2022 Dashboard pace counts only culling: slideshow time is never counted, and neither are pauses longer than 12 s.\n\u2022 (Test: this version should arrive by itself through Settings \u2192 Updates.)"
+  "version": "1.5.0-beta.16",
+  "manifest": "manifests/1.5.0-beta.16.json",
+  "notes": "\u2022 Backup numbers are right: over 2 GB the bar, sizes and time left went wrong (\"1.5 GB of 1.4 GB\", negative numbers). Now they match, and time left follows the recent speed.\n\u2022 Back up & verify checks each file while the next one copies - the whole job finishes sooner. The bar shows the whole job.\n\u2022 The \"about \u2026\" estimate learns from your own backups and hides while a job runs.\n\u2022 Second copy: unticking \"Use\" dims the whole area.\n\u2022 Dashboard: backup time never counts as culling; backups show under the session (\"Backed up\").\n\u2022 \ud83c\udfc6 High scores in the dashboard - the fastest culling sessions (50+ photos), arcade style."
  },
  "android": {
-  "version": "1.5.0-beta.15",
-  "code": 35,
-  "apk": "blobs/d387d98af6e21c09b21e587e5da195ecbaab794919b10b42b7a6768d443ebf37.apk",
-  "sha256": "d387d98af6e21c09b21e587e5da195ecbaab794919b10b42b7a6768d443ebf37",
+  "version": "1.5.0-beta.16",
+  "code": 36,
+  "apk": "blobs/775a431bb7132acf4ca5957fcf45b2ef709a13259afa82462f8073399da90510.apk",
+  "sha256": "775a431bb7132acf4ca5957fcf45b2ef709a13259afa82462f8073399da90510",
   "size": 59214820,
-  "notes": "\u2022 Slideshow fades in from your screen straight to the first photo - no black flash.\n\u2022 Dashboard pace counts only culling: slideshow time is never counted, and neither are pauses longer than 12 s.\n\u2022 (Test: this version should arrive by itself through Settings \u2192 Updates.)"
+  "notes": "\u2022 Backup numbers are right: over 2 GB the bar, sizes and time left went wrong (\"1.5 GB of 1.4 GB\", negative numbers). Now they match, and time left follows the recent speed.\n\u2022 Back up & verify checks each file while the next one copies - the whole job finishes sooner. The bar shows the whole job.\n\u2022 The \"about \u2026\" estimate learns from your own backups and hides while a job runs.\n\u2022 Second copy: unticking \"Use\" dims the whole area.\n\u2022 Dashboard: backup time never counts as culling; backups show under the session (\"Backed up\").\n\u2022 \ud83c\udfc6 High scores in the dashboard - the fastest culling sessions (50+ photos), arcade style."
  }
 }
