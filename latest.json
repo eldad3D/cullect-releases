@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.5.0-beta.20",
-  "manifest": "manifests/1.5.0-beta.20.json",
-  "notes": "\u2022 Click an album: its photos in this folder. Click it again: the whole album right in the grid - from every folder and the Library (Curish too) - under a bright LIBRARY ALBUM bar; the folder name fades. Once more: every photo of the folder.\n\u2022 In a Library album, photos from other folders are for looking; Keep / Discard / crop work on this folder's photos.\n\u2022 The separate album window from beta.19 is gone."
+  "version": "1.6.0",
+  "manifest": "manifests/1.6.0.json",
+  "notes": "\u2022 Click an album: its photos in this folder. Click again: the whole album (every folder + the Library) - the grid gets a coloured frame and the folder name fades. Each click switches between the two; Esc goes back to the folder.\n\u2022 An album photo whose drive is not connected shows its Library copy instead of an error.\n\u2022 Leaving an album shows a photo of the folder right away (no leftover error picture).\n\u2022 Shorter album bar.\n\u2022 Versions are plain numbers from now on (1.6.0, 1.6.1, ...)."
  },
  "android": {
-  "version": "1.5.0-beta.20",
-  "code": 40,
-  "apk": "blobs/885b28127a1f87245f14f04ae118a35ae351cbbaeeaec40c99762e97a1b1778f.apk",
-  "sha256": "885b28127a1f87245f14f04ae118a35ae351cbbaeeaec40c99762e97a1b1778f",
-  "size": 59214820,
-  "notes": "\u2022 Click an album: its photos in this folder. Click it again: the whole album right in the grid - from every folder and the Library (Curish too) - under a bright LIBRARY ALBUM bar; the folder name fades. Once more: every photo of the folder.\n\u2022 In a Library album, photos from other folders are for looking; Keep / Discard / crop work on this folder's photos.\n\u2022 The separate album window from beta.19 is gone."
+  "version": "1.6.0",
+  "code": 41,
+  "apk": "blobs/eb024c0e81f395ae540b97b058c80e9a7a460e185027e0e505aaac952230a7c5.apk",
+  "sha256": "eb024c0e81f395ae540b97b058c80e9a7a460e185027e0e505aaac952230a7c5",
+  "size": 59214816,
+  "notes": "\u2022 Click an album: its photos in this folder. Click again: the whole album (every folder + the Library) - the grid gets a coloured frame and the folder name fades. Each click switches between the two; Esc goes back to the folder.\n\u2022 An album photo whose drive is not connected shows its Library copy instead of an error.\n\u2022 Leaving an album shows a photo of the folder right away (no leftover error picture).\n\u2022 Shorter album bar.\n\u2022 Versions are plain numbers from now on (1.6.0, 1.6.1, ...)."
  }
 }
