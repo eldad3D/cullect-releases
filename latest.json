@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.5.0-beta.18",
-  "manifest": "manifests/1.5.0-beta.18.json",
-  "notes": "\u2022 Albums made in Curish get a cover too: when none of an album's photos are in any Cullect folder, its cover (else its first photo) comes from the Library."
+  "version": "1.5.0-beta.19",
+  "manifest": "manifests/1.5.0-beta.19.json",
+  "notes": "\u2022 Click an album's number in the sidebar (or \u25a6 Whole album in the album bar) - every photo of it: this folder, your other folders and the Library (Curish too). Photos of this folder are bright; double-click one to jump to it, any other opens in Explorer.\n\u2022 Clicking the album itself still shows only this folder's photos of it. An album with none here opens the whole album straight away."
  },
  "android": {
-  "version": "1.5.0-beta.18",
-  "code": 38,
-  "apk": "blobs/f9a9b7e036d33f2ff5bdf8a4b4d46bb37a07b31cbfde92c4bb15c41495692e1b.apk",
-  "sha256": "f9a9b7e036d33f2ff5bdf8a4b4d46bb37a07b31cbfde92c4bb15c41495692e1b",
-  "size": 59214820,
-  "notes": "\u2022 Albums made in Curish get a cover too: when none of an album's photos are in any Cullect folder, its cover (else its first photo) comes from the Library."
+  "version": "1.5.0-beta.19",
+  "code": 39,
+  "apk": "blobs/a136a9005ec84f65b737f329d22abc0a9f1aeed19b1fee4c59e1e233b84afd68.apk",
+  "sha256": "a136a9005ec84f65b737f329d22abc0a9f1aeed19b1fee4c59e1e233b84afd68",
+  "size": 59214824,
+  "notes": "\u2022 Click an album's number in the sidebar (or \u25a6 Whole album in the album bar) - every photo of it: this folder, your other folders and the Library (Curish too). Photos of this folder are bright; double-click one to jump to it, any other opens in Explorer.\n\u2022 Clicking the album itself still shows only this folder's photos of it. An album with none here opens the whole album straight away."
  }
 }
