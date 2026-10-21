@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.5.0-beta.19",
-  "manifest": "manifests/1.5.0-beta.19.json",
-  "notes": "\u2022 Click an album's number in the sidebar (or \u25a6 Whole album in the album bar) - every photo of it: this folder, your other folders and the Library (Curish too). Photos of this folder are bright; double-click one to jump to it, any other opens in Explorer.\n\u2022 Clicking the album itself still shows only this folder's photos of it. An album with none here opens the whole album straight away."
+  "version": "1.5.0-beta.20",
+  "manifest": "manifests/1.5.0-beta.20.json",
+  "notes": "\u2022 Click an album: its photos in this folder. Click it again: the whole album right in the grid - from every folder and the Library (Curish too) - under a bright LIBRARY ALBUM bar; the folder name fades. Once more: every photo of the folder.\n\u2022 In a Library album, photos from other folders are for looking; Keep / Discard / crop work on this folder's photos.\n\u2022 The separate album window from beta.19 is gone."
  },
  "android": {
-  "version": "1.5.0-beta.19",
-  "code": 39,
-  "apk": "blobs/a136a9005ec84f65b737f329d22abc0a9f1aeed19b1fee4c59e1e233b84afd68.apk",
-  "sha256": "a136a9005ec84f65b737f329d22abc0a9f1aeed19b1fee4c59e1e233b84afd68",
-  "size": 59214824,
-  "notes": "\u2022 Click an album's number in the sidebar (or \u25a6 Whole album in the album bar) - every photo of it: this folder, your other folders and the Library (Curish too). Photos of this folder are bright; double-click one to jump to it, any other opens in Explorer.\n\u2022 Clicking the album itself still shows only this folder's photos of it. An album with none here opens the whole album straight away."
+  "version": "1.5.0-beta.20",
+  "code": 40,
+  "apk": "blobs/885b28127a1f87245f14f04ae118a35ae351cbbaeeaec40c99762e97a1b1778f.apk",
+  "sha256": "885b28127a1f87245f14f04ae118a35ae351cbbaeeaec40c99762e97a1b1778f",
+  "size": 59214820,
+  "notes": "\u2022 Click an album: its photos in this folder. Click it again: the whole album right in the grid - from every folder and the Library (Curish too) - under a bright LIBRARY ALBUM bar; the folder name fades. Once more: every photo of the folder.\n\u2022 In a Library album, photos from other folders are for looking; Keep / Discard / crop work on this folder's photos.\n\u2022 The separate album window from beta.19 is gone."
  }
 }
