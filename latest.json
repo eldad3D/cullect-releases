@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.5.0-beta.17",
-  "manifest": "manifests/1.5.0-beta.17.json",
-  "notes": "\u2022 Crop view: coming back to a photo (from the grid, or after pasting a crop) shows its stored crop - no stale or uncropped preview.\n\u2022 Every album shows a thumbnail in the sidebar, even when none of its photos are in this folder (its cover, else its first photo, from any folder).\n\u2022 Library auto-sync: every Keep and favourite goes to the Library a few seconds after you decide - not only album photos."
+  "version": "1.5.0-beta.18",
+  "manifest": "manifests/1.5.0-beta.18.json",
+  "notes": "\u2022 Albums made in Curish get a cover too: when none of an album's photos are in any Cullect folder, its cover (else its first photo) comes from the Library."
  },
  "android": {
-  "version": "1.5.0-beta.17",
-  "code": 37,
-  "apk": "blobs/d19543fdfc179417e377ebda7dec8ab15b7af6807750f8b97fe6e9ea3f52d8ee.apk",
-  "sha256": "d19543fdfc179417e377ebda7dec8ab15b7af6807750f8b97fe6e9ea3f52d8ee",
-  "size": 59214824,
-  "notes": "\u2022 Crop view: coming back to a photo (from the grid, or after pasting a crop) shows its stored crop - no stale or uncropped preview.\n\u2022 Every album shows a thumbnail in the sidebar, even when none of its photos are in this folder (its cover, else its first photo, from any folder).\n\u2022 Library auto-sync: every Keep and favourite goes to the Library a few seconds after you decide - not only album photos."
+  "version": "1.5.0-beta.18",
+  "code": 38,
+  "apk": "blobs/f9a9b7e036d33f2ff5bdf8a4b4d46bb37a07b31cbfde92c4bb15c41495692e1b.apk",
+  "sha256": "f9a9b7e036d33f2ff5bdf8a4b4d46bb37a07b31cbfde92c4bb15c41495692e1b",
+  "size": 59214820,
+  "notes": "\u2022 Albums made in Curish get a cover too: when none of an album's photos are in any Cullect folder, its cover (else its first photo) comes from the Library."
  }
 }
