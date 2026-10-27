@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.6.1",
-  "manifest": "manifests/1.6.1.json",
-  "notes": "\u2022 Updates now come from a private update server and need an access key that comes with your copy (Windows: the access.key file next to Cullect.exe, already in the zip you were sent; phone: paste it once in Settings). Nothing else changes.\n\u2022 If a key is missing or switched off, Settings -> Updates says so and lets you paste a new one."
+  "version": "1.6.2",
+  "manifest": "manifests/1.6.2.json",
+  "notes": "\u2022 Online AI is switched off. Your photos never leave your computer or phone; the offline AI (subjects, sharp frames, eyes, similar shots, search) works as before.\n\u2022 Phone: the app is now release-signed (not a developer build). It updates over 1.6.1 as usual - nothing to uninstall, your settings stay.\n\u2022 Download links no longer contain your access key (one-time links instead). The author changed keys that may have been in old links - paste the new one in Settings -> Updates if asked.\n\u2022 Security updates of the image and signature libraries (Pillow 13, cryptography 50) on Windows.\n\u2022 The log file is now cullect.log.\n\u2022 No update question at first start - updates are checked by default (switch off in Settings -> Updates). Fixed a crash on first start.\n\u2022 Albums: two quick changes at the same moment no longer lose the second one."
  },
  "android": {
-  "version": "1.6.1",
-  "code": 42,
-  "apk": "blobs/723c066f99242f4c23f2a4cf94d244490e2f45d57609d96e5b606acf3dad7391.apk",
-  "sha256": "723c066f99242f4c23f2a4cf94d244490e2f45d57609d96e5b606acf3dad7391",
-  "size": 59214812,
-  "notes": "\u2022 Updates now come from a private update server and need an access key that comes with your copy (Windows: the access.key file next to Cullect.exe, already in the zip you were sent; phone: paste it once in Settings). Nothing else changes.\n\u2022 If a key is missing or switched off, Settings -> Updates says so and lets you paste a new one."
+  "version": "1.6.2",
+  "code": 43,
+  "apk": "blobs/c38923743f62e2d9347971aba2787e915b8f727eebccd2c46c8b000c77e3a7b0.apk",
+  "sha256": "c38923743f62e2d9347971aba2787e915b8f727eebccd2c46c8b000c77e3a7b0",
+  "size": 56825007,
+  "notes": "\u2022 Online AI is switched off. Your photos never leave your computer or phone; the offline AI (subjects, sharp frames, eyes, similar shots, search) works as before.\n\u2022 Phone: the app is now release-signed (not a developer build). It updates over 1.6.1 as usual - nothing to uninstall, your settings stay.\n\u2022 Download links no longer contain your access key (one-time links instead). The author changed keys that may have been in old links - paste the new one in Settings -> Updates if asked.\n\u2022 Security updates of the image and signature libraries (Pillow 13, cryptography 50) on Windows.\n\u2022 The log file is now cullect.log.\n\u2022 No update question at first start - updates are checked by default (switch off in Settings -> Updates). Fixed a crash on first start.\n\u2022 Albums: two quick changes at the same moment no longer lose the second one."
  }
 }
