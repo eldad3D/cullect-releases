@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.6.3",
-  "manifest": "manifests/1.6.3.json",
-  "notes": "\u2022 Your Library's albums show in the sidebar right away, even on a new computer before any folder is opened.\n\u2022 The window opens maximised (first start too), so every menu and button fits on a laptop screen.\n\u2022 Settings and tool windows fit small screens; long settings pages scroll."
+  "version": "1.6.4",
+  "manifest": "manifests/1.6.4.json",
+  "notes": "\u2022 The window always opens maximised (also when it was closed as a smaller window)."
  },
  "android": {
-  "version": "1.6.3",
-  "code": 44,
-  "apk": "blobs/5042f750542113b226dc4093c502e512ade1f5e6c43891fdd6bad99fb811481e.apk",
-  "sha256": "5042f750542113b226dc4093c502e512ade1f5e6c43891fdd6bad99fb811481e",
+  "version": "1.6.4",
+  "code": 45,
+  "apk": "blobs/fac2614886cb6b0b408d8bc7966191d81c273f3bd8011fdf43a9aedeba4eb2f4.apk",
+  "sha256": "fac2614886cb6b0b408d8bc7966191d81c273f3bd8011fdf43a9aedeba4eb2f4",
   "size": 56825007,
-  "notes": "\u2022 Your Library's albums show in the sidebar right away, even on a new computer before any folder is opened.\n\u2022 The window opens maximised (first start too), so every menu and button fits on a laptop screen.\n\u2022 Settings and tool windows fit small screens; long settings pages scroll."
+  "notes": "\u2022 The window always opens maximised (also when it was closed as a smaller window)."
  }
 }
