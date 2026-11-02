@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.6.4",
-  "manifest": "manifests/1.6.4.json",
-  "notes": "\u2022 The window always opens maximised (also when it was closed as a smaller window)."
+  "version": "1.6.5",
+  "manifest": "manifests/1.6.5.json",
+  "notes": "\u2022 Phone: Add to album lists your Cullect albums from the PC (only the name is saved with the photo - nothing is copied). The PC sees it next time it opens the folder. Copy to the phone's Gallery is still there, as its own option.\n\u2022 Filters: new Albums chip - in an album, not in album X, or in no album. Works with the Keep / \u2605 tabs.\n\u2022 Fullscreen: only the photo (no top bar, no coloured frame) and a small status icon at the bottom - pale when it is only the AI's pick. The top bar's text shows in the I info.\n\u2022 Folder done: a colour bar with Discard / Keep / \u2605 counts and %, and how many photos are in albums. The finished steps fold away behind Review again.\n\u2022 Top bar order: Discard, Keep, Favourite."
  },
  "android": {
-  "version": "1.6.4",
-  "code": 45,
-  "apk": "blobs/fac2614886cb6b0b408d8bc7966191d81c273f3bd8011fdf43a9aedeba4eb2f4.apk",
-  "sha256": "fac2614886cb6b0b408d8bc7966191d81c273f3bd8011fdf43a9aedeba4eb2f4",
-  "size": 56825007,
-  "notes": "\u2022 The window always opens maximised (also when it was closed as a smaller window)."
+  "version": "1.6.5",
+  "code": 46,
+  "apk": "blobs/b14f14d65c36d441430e3b24f9706a23554ebef31880cc35d19e10e53f7fa68e.apk",
+  "sha256": "b14f14d65c36d441430e3b24f9706a23554ebef31880cc35d19e10e53f7fa68e",
+  "size": 56841391,
+  "notes": "\u2022 Phone: Add to album lists your Cullect albums from the PC (only the name is saved with the photo - nothing is copied). The PC sees it next time it opens the folder. Copy to the phone's Gallery is still there, as its own option.\n\u2022 Filters: new Albums chip - in an album, not in album X, or in no album. Works with the Keep / \u2605 tabs.\n\u2022 Fullscreen: only the photo (no top bar, no coloured frame) and a small status icon at the bottom - pale when it is only the AI's pick. The top bar's text shows in the I info.\n\u2022 Folder done: a colour bar with Discard / Keep / \u2605 counts and %, and how many photos are in albums. The finished steps fold away behind Review again.\n\u2022 Top bar order: Discard, Keep, Favourite."
  }
 }
