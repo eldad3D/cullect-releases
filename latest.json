@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.6.5",
-  "manifest": "manifests/1.6.5.json",
-  "notes": "\u2022 Phone: Add to album lists your Cullect albums from the PC (only the name is saved with the photo - nothing is copied). The PC sees it next time it opens the folder. Copy to the phone's Gallery is still there, as its own option.\n\u2022 Filters: new Albums chip - in an album, not in album X, or in no album. Works with the Keep / \u2605 tabs.\n\u2022 Fullscreen: only the photo (no top bar, no coloured frame) and a small status icon at the bottom - pale when it is only the AI's pick. The top bar's text shows in the I info.\n\u2022 Folder done: a colour bar with Discard / Keep / \u2605 counts and %, and how many photos are in albums. The finished steps fold away behind Review again.\n\u2022 Top bar order: Discard, Keep, Favourite."
+  "version": "1.6.6",
+  "manifest": "manifests/1.6.6.json",
+  "notes": "\u2022 The photo Library gets only the photos you put in an album. Keeps and favourites stay in Cullect (1.6.2-1.6.5 sent every Keep of an opened folder - a whole _keep folder at once).\n\u2022 Send to Library \u2192 Selected photos still sends what you choose; more than 50 at once asks first.\n\u2022 Removed \"All keeps / All favourites of this folder\" from Send to Library."
  },
  "android": {
-  "version": "1.6.5",
-  "code": 46,
-  "apk": "blobs/b14f14d65c36d441430e3b24f9706a23554ebef31880cc35d19e10e53f7fa68e.apk",
-  "sha256": "b14f14d65c36d441430e3b24f9706a23554ebef31880cc35d19e10e53f7fa68e",
+  "version": "1.6.6",
+  "code": 47,
+  "apk": "blobs/749e4f3f8e5c851dab8f06292cfa436d6ccacb89a7a605076a8a4542529b647d.apk",
+  "sha256": "749e4f3f8e5c851dab8f06292cfa436d6ccacb89a7a605076a8a4542529b647d",
   "size": 56841391,
-  "notes": "\u2022 Phone: Add to album lists your Cullect albums from the PC (only the name is saved with the photo - nothing is copied). The PC sees it next time it opens the folder. Copy to the phone's Gallery is still there, as its own option.\n\u2022 Filters: new Albums chip - in an album, not in album X, or in no album. Works with the Keep / \u2605 tabs.\n\u2022 Fullscreen: only the photo (no top bar, no coloured frame) and a small status icon at the bottom - pale when it is only the AI's pick. The top bar's text shows in the I info.\n\u2022 Folder done: a colour bar with Discard / Keep / \u2605 counts and %, and how many photos are in albums. The finished steps fold away behind Review again.\n\u2022 Top bar order: Discard, Keep, Favourite."
+  "notes": "\u2022 The photo Library gets only the photos you put in an album. Keeps and favourites stay in Cullect (1.6.2-1.6.5 sent every Keep of an opened folder - a whole _keep folder at once).\n\u2022 Send to Library \u2192 Selected photos still sends what you choose; more than 50 at once asks first.\n\u2022 Removed \"All keeps / All favourites of this folder\" from Send to Library."
  }
 }
