@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.6.6",
-  "manifest": "manifests/1.6.6.json",
-  "notes": "\u2022 The photo Library gets only the photos you put in an album. Keeps and favourites stay in Cullect (1.6.2-1.6.5 sent every Keep of an opened folder - a whole _keep folder at once).\n\u2022 Send to Library \u2192 Selected photos still sends what you choose; more than 50 at once asks first.\n\u2022 Removed \"All keeps / All favourites of this folder\" from Send to Library."
+  "version": "1.6.7",
+  "manifest": "manifests/1.6.7.json",
+  "notes": "\u2022 Fullscreen starts with the photo filling the whole screen (no edge line; the edges of the photo may be cut).\n\u2022 0 = the whole photo with black bands; 0 again = fill. 1 = 100 %, 2 = 200 % as before.\n\u2022 The status icon is at the bottom left; with I info open it sits in the info box."
  },
  "android": {
-  "version": "1.6.6",
-  "code": 47,
-  "apk": "blobs/749e4f3f8e5c851dab8f06292cfa436d6ccacb89a7a605076a8a4542529b647d.apk",
-  "sha256": "749e4f3f8e5c851dab8f06292cfa436d6ccacb89a7a605076a8a4542529b647d",
+  "version": "1.6.7",
+  "code": 48,
+  "apk": "blobs/83dbbb796763f1e9931b324d589e5ef06d9d9563b200ac3eb62c588f74e02f77.apk",
+  "sha256": "83dbbb796763f1e9931b324d589e5ef06d9d9563b200ac3eb62c588f74e02f77",
   "size": 56841391,
-  "notes": "\u2022 The photo Library gets only the photos you put in an album. Keeps and favourites stay in Cullect (1.6.2-1.6.5 sent every Keep of an opened folder - a whole _keep folder at once).\n\u2022 Send to Library \u2192 Selected photos still sends what you choose; more than 50 at once asks first.\n\u2022 Removed \"All keeps / All favourites of this folder\" from Send to Library."
+  "notes": "\u2022 Fullscreen starts with the photo filling the whole screen (no edge line; the edges of the photo may be cut).\n\u2022 0 = the whole photo with black bands; 0 again = fill. 1 = 100 %, 2 = 200 % as before.\n\u2022 The status icon is at the bottom left; with I info open it sits in the info box."
  }
 }
