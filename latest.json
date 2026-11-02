@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.6.7",
-  "manifest": "manifests/1.6.7.json",
-  "notes": "\u2022 Fullscreen starts with the photo filling the whole screen (no edge line; the edges of the photo may be cut).\n\u2022 0 = the whole photo with black bands; 0 again = fill. 1 = 100 %, 2 = 200 % as before.\n\u2022 The status icon is at the bottom left; with I info open it sits in the info box."
+  "version": "1.6.8",
+  "manifest": "manifests/1.6.8.json",
+  "notes": "\u2022 Photo view / fullscreen: \u2191 zooms in, \u2193 zooms out (back to fit at the bottom). Lists and text boxes keep their arrows.\n\u2022 Alt + drag pans the photo; in fullscreen fill a plain drag pans too.\n\u2022 Fullscreen fill reaches a few pixels past every edge."
  },
  "android": {
-  "version": "1.6.7",
-  "code": 48,
-  "apk": "blobs/83dbbb796763f1e9931b324d589e5ef06d9d9563b200ac3eb62c588f74e02f77.apk",
-  "sha256": "83dbbb796763f1e9931b324d589e5ef06d9d9563b200ac3eb62c588f74e02f77",
+  "version": "1.6.8",
+  "code": 49,
+  "apk": "blobs/7f6b8499f66e3973b462c43d026c7155b357ae586bb344a383908eb09c8aec92.apk",
+  "sha256": "7f6b8499f66e3973b462c43d026c7155b357ae586bb344a383908eb09c8aec92",
   "size": 56841391,
-  "notes": "\u2022 Fullscreen starts with the photo filling the whole screen (no edge line; the edges of the photo may be cut).\n\u2022 0 = the whole photo with black bands; 0 again = fill. 1 = 100 %, 2 = 200 % as before.\n\u2022 The status icon is at the bottom left; with I info open it sits in the info box."
+  "notes": "\u2022 Photo view / fullscreen: \u2191 zooms in, \u2193 zooms out (back to fit at the bottom). Lists and text boxes keep their arrows.\n\u2022 Alt + drag pans the photo; in fullscreen fill a plain drag pans too.\n\u2022 Fullscreen fill reaches a few pixels past every edge."
  }
 }
