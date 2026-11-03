@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.6.9",
-  "manifest": "manifests/1.6.9.json",
-  "notes": "\u2022 Dashboard time was far too low: any pause over 12 s was dropped. Now 30 s with no mouse move, key, click, wheel, zoom or pan counts as away.\n\u2022 Minimised or switched to another app = paused (screensaver too).\n\u2022 Time shows culling / total; Pace = culling time per decision."
+  "version": "1.6.10",
+  "manifest": "manifests/1.6.10.json",
+  "notes": "\u2022 Session log: separate Total (whole session, breaks included) and Culling (real work only) columns."
  },
  "android": {
-  "version": "1.6.9",
-  "code": 50,
-  "apk": "blobs/e73ac661ca1e1c8a0f285b084bc3f3c8d7f9bfa7e22690680a1948ab1c723763.apk",
-  "sha256": "e73ac661ca1e1c8a0f285b084bc3f3c8d7f9bfa7e22690680a1948ab1c723763",
+  "version": "1.6.10",
+  "code": 51,
+  "apk": "blobs/094d41f76bacda57202d8bbe300a4935c9218972260e616d39ad8cec1b7ae74f.apk",
+  "sha256": "094d41f76bacda57202d8bbe300a4935c9218972260e616d39ad8cec1b7ae74f",
   "size": 56841391,
-  "notes": "\u2022 Dashboard time was far too low: any pause over 12 s was dropped. Now 30 s with no mouse move, key, click, wheel, zoom or pan counts as away.\n\u2022 Minimised or switched to another app = paused (screensaver too).\n\u2022 Time shows culling / total; Pace = culling time per decision."
+  "notes": "\u2022 Session log: separate Total (whole session, breaks included) and Culling (real work only) columns."
  }
 }
