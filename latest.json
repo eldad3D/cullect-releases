@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.6.17",
-  "manifest": "manifests/1.6.17.json",
-  "notes": "\u2022 Videos (MP4 / MOV): the picture plays now, not only the sound; starts in a fraction of a second. H.264, H.265 (HEVC), VP9, AV1, ProRes.\n\u2022 GIFs play in the grid (the ones on screen) and the selected video loops its first 2 s there.\n\u2022 Media filter: Photo \u00b7 Animation (GIF) \u00b7 Video.\n\u2022 Play toggle button next to \u24d8 at the bottom (same as \u2699 \u2192 Play GIFs & videos). \u24d8 = hover for the keyboard keys."
+  "version": "1.6.18",
+  "manifest": "manifests/1.6.18.json",
+  "notes": "\u2022 Big view and fullscreen: GIFs and videos play (they stood still on the first frame).\n\u2022 Grid: GIFs decoded at tile size - smoother with many on screen."
  },
  "android": {
-  "version": "1.6.17",
-  "code": 58,
-  "apk": "blobs/8d799ff6c8f338129366fb0116627deae54110a7a13a8006697846cd1d0d4ff3.apk",
-  "sha256": "8d799ff6c8f338129366fb0116627deae54110a7a13a8006697846cd1d0d4ff3",
+  "version": "1.6.18",
+  "code": 59,
+  "apk": "blobs/a7ed0bcdad8b8e840a2254855ca9ae3b7d129472fa3eb54a04dd0008b0a3e373.apk",
+  "sha256": "a7ed0bcdad8b8e840a2254855ca9ae3b7d129472fa3eb54a04dd0008b0a3e373",
   "size": 56841391,
-  "notes": "\u2022 Videos (MP4 / MOV): the picture plays now, not only the sound; starts in a fraction of a second. H.264, H.265 (HEVC), VP9, AV1, ProRes.\n\u2022 GIFs play in the grid (the ones on screen) and the selected video loops its first 2 s there.\n\u2022 Media filter: Photo \u00b7 Animation (GIF) \u00b7 Video.\n\u2022 Play toggle button next to \u24d8 at the bottom (same as \u2699 \u2192 Play GIFs & videos). \u24d8 = hover for the keyboard keys."
+  "notes": "\u2022 Big view and fullscreen: GIFs and videos play (they stood still on the first frame).\n\u2022 Grid: GIFs decoded at tile size - smoother with many on screen."
  }
 }
