@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.6.15",
-  "manifest": "manifests/1.6.15.json",
-  "notes": "\u2022 Culling time is now read from your actions (decisions, undos, photos opened): only gaps of 30 s or less count. It can no longer be more than Total, and older sessions are recalculated too."
+  "version": "1.6.16",
+  "manifest": "manifests/1.6.16.json",
+  "notes": "\u2022 HEIC / HEIF photos show their picture (they said \"No preview\"). Also GIF, PSD, MPO, AVIF.\n\u2022 Videos (MP4 / MOV / M4V) are in your folders now, with a frame as their thumbnail.\n\u2022 In the viewer GIFs play and videos loop their first 2 seconds (silent). Alt+Q (or right-click): the whole video with sound / pause / play.\n\u2022 \u2699 menu \u2192 Play GIFs & videos: off = they stay still."
  },
  "android": {
-  "version": "1.6.15",
-  "code": 56,
-  "apk": "blobs/889f2af05a87bdf379f1857cdc0815b74175138527304612aec41998b5451a8a.apk",
-  "sha256": "889f2af05a87bdf379f1857cdc0815b74175138527304612aec41998b5451a8a",
+  "version": "1.6.16",
+  "code": 57,
+  "apk": "blobs/349d04d6cfeca7a72956af47e4e8d3e13cbacd49cd3536c1c48aaf998888fb39.apk",
+  "sha256": "349d04d6cfeca7a72956af47e4e8d3e13cbacd49cd3536c1c48aaf998888fb39",
   "size": 56841391,
-  "notes": "\u2022 Culling time is now read from your actions (decisions, undos, photos opened): only gaps of 30 s or less count. It can no longer be more than Total, and older sessions are recalculated too."
+  "notes": "\u2022 HEIC / HEIF photos show their picture (they said \"No preview\"). Also GIF, PSD, MPO, AVIF.\n\u2022 Videos (MP4 / MOV / M4V) are in your folders now, with a frame as their thumbnail.\n\u2022 In the viewer GIFs play and videos loop their first 2 seconds (silent). Alt+Q (or right-click): the whole video with sound / pause / play.\n\u2022 \u2699 menu \u2192 Play GIFs & videos: off = they stay still."
  }
 }
