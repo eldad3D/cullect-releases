@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.6.8",
-  "manifest": "manifests/1.6.8.json",
-  "notes": "\u2022 Photo view / fullscreen: \u2191 zooms in, \u2193 zooms out (back to fit at the bottom). Lists and text boxes keep their arrows.\n\u2022 Alt + drag pans the photo; in fullscreen fill a plain drag pans too.\n\u2022 Fullscreen fill reaches a few pixels past every edge."
+  "version": "1.6.9",
+  "manifest": "manifests/1.6.9.json",
+  "notes": "\u2022 Dashboard time was far too low: any pause over 12 s was dropped. Now 30 s with no mouse move, key, click, wheel, zoom or pan counts as away.\n\u2022 Minimised or switched to another app = paused (screensaver too).\n\u2022 Time shows culling / total; Pace = culling time per decision."
  },
  "android": {
-  "version": "1.6.8",
-  "code": 49,
-  "apk": "blobs/7f6b8499f66e3973b462c43d026c7155b357ae586bb344a383908eb09c8aec92.apk",
-  "sha256": "7f6b8499f66e3973b462c43d026c7155b357ae586bb344a383908eb09c8aec92",
+  "version": "1.6.9",
+  "code": 50,
+  "apk": "blobs/e73ac661ca1e1c8a0f285b084bc3f3c8d7f9bfa7e22690680a1948ab1c723763.apk",
+  "sha256": "e73ac661ca1e1c8a0f285b084bc3f3c8d7f9bfa7e22690680a1948ab1c723763",
   "size": 56841391,
-  "notes": "\u2022 Photo view / fullscreen: \u2191 zooms in, \u2193 zooms out (back to fit at the bottom). Lists and text boxes keep their arrows.\n\u2022 Alt + drag pans the photo; in fullscreen fill a plain drag pans too.\n\u2022 Fullscreen fill reaches a few pixels past every edge."
+  "notes": "\u2022 Dashboard time was far too low: any pause over 12 s was dropped. Now 30 s with no mouse move, key, click, wheel, zoom or pan counts as away.\n\u2022 Minimised or switched to another app = paused (screensaver too).\n\u2022 Time shows culling / total; Pace = culling time per decision."
  }
 }
