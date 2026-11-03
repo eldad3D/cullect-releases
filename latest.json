@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.6.10",
-  "manifest": "manifests/1.6.10.json",
-  "notes": "\u2022 Session log: separate Total (whole session, breaks included) and Culling (real work only) columns."
+  "version": "1.6.11",
+  "manifest": "manifests/1.6.11.json",
+  "notes": "\u2022 Updating no longer stops halfway when Dropbox or antivirus holds a file for a moment: it waits and tries again."
  },
  "android": {
-  "version": "1.6.10",
-  "code": 51,
-  "apk": "blobs/094d41f76bacda57202d8bbe300a4935c9218972260e616d39ad8cec1b7ae74f.apk",
-  "sha256": "094d41f76bacda57202d8bbe300a4935c9218972260e616d39ad8cec1b7ae74f",
+  "version": "1.6.11",
+  "code": 52,
+  "apk": "blobs/d8ee9f39a5ce6e30a27785fa0fa855d334326b918e256f45f656dedb645eb696.apk",
+  "sha256": "d8ee9f39a5ce6e30a27785fa0fa855d334326b918e256f45f656dedb645eb696",
   "size": 56841391,
-  "notes": "\u2022 Session log: separate Total (whole session, breaks included) and Culling (real work only) columns."
+  "notes": "\u2022 Updating no longer stops halfway when Dropbox or antivirus holds a file for a moment: it waits and tries again."
  }
 }
