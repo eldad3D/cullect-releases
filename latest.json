@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.6.12",
-  "manifest": "manifests/1.6.12.json",
-  "notes": "\u2022 Every time you sit with a folder it is its own session (back within 5 min = the same one).\n\u2022 Session log: By folder toggle adds a folder's sessions up; click again for every session."
+  "version": "1.6.13",
+  "manifest": "manifests/1.6.13.json",
+  "notes": "\u2022 Culling time missed keyboard work (Keep / Discard keys are shortcuts): it counts now, so pace per decision is real."
  },
  "android": {
-  "version": "1.6.12",
-  "code": 53,
-  "apk": "blobs/cc9891ec7b31eedec14c482b7c6c6a33e047dcb714148e219e00d6423e4e8ccf.apk",
-  "sha256": "cc9891ec7b31eedec14c482b7c6c6a33e047dcb714148e219e00d6423e4e8ccf",
+  "version": "1.6.13",
+  "code": 54,
+  "apk": "blobs/2999b103ba94d612d58ee50a19ebd3ba5ba57fe85b3f7dd46c5e4362bb1e56f4.apk",
+  "sha256": "2999b103ba94d612d58ee50a19ebd3ba5ba57fe85b3f7dd46c5e4362bb1e56f4",
   "size": 56841391,
-  "notes": "\u2022 Every time you sit with a folder it is its own session (back within 5 min = the same one).\n\u2022 Session log: By folder toggle adds a folder's sessions up; click again for every session."
+  "notes": "\u2022 Culling time missed keyboard work (Keep / Discard keys are shortcuts): it counts now, so pace per decision is real."
  }
 }
