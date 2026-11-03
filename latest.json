@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.6.11",
-  "manifest": "manifests/1.6.11.json",
-  "notes": "\u2022 Updating no longer stops halfway when Dropbox or antivirus holds a file for a moment: it waits and tries again."
+  "version": "1.6.12",
+  "manifest": "manifests/1.6.12.json",
+  "notes": "\u2022 Every time you sit with a folder it is its own session (back within 5 min = the same one).\n\u2022 Session log: By folder toggle adds a folder's sessions up; click again for every session."
  },
  "android": {
-  "version": "1.6.11",
-  "code": 52,
-  "apk": "blobs/d8ee9f39a5ce6e30a27785fa0fa855d334326b918e256f45f656dedb645eb696.apk",
-  "sha256": "d8ee9f39a5ce6e30a27785fa0fa855d334326b918e256f45f656dedb645eb696",
+  "version": "1.6.12",
+  "code": 53,
+  "apk": "blobs/cc9891ec7b31eedec14c482b7c6c6a33e047dcb714148e219e00d6423e4e8ccf.apk",
+  "sha256": "cc9891ec7b31eedec14c482b7c6c6a33e047dcb714148e219e00d6423e4e8ccf",
   "size": 56841391,
-  "notes": "\u2022 Updating no longer stops halfway when Dropbox or antivirus holds a file for a moment: it waits and tries again."
+  "notes": "\u2022 Every time you sit with a folder it is its own session (back within 5 min = the same one).\n\u2022 Session log: By folder toggle adds a folder's sessions up; click again for every session."
  }
 }
