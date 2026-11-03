@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.6.13",
-  "manifest": "manifests/1.6.13.json",
-  "notes": "\u2022 Culling time missed keyboard work (Keep / Discard keys are shortcuts): it counts now, so pace per decision is real."
+  "version": "1.6.14",
+  "manifest": "manifests/1.6.14.json",
+  "notes": "\u2022 Total and Culling time start at your first decision, not when the folder opened (startup, looking around)."
  },
  "android": {
-  "version": "1.6.13",
-  "code": 54,
-  "apk": "blobs/2999b103ba94d612d58ee50a19ebd3ba5ba57fe85b3f7dd46c5e4362bb1e56f4.apk",
-  "sha256": "2999b103ba94d612d58ee50a19ebd3ba5ba57fe85b3f7dd46c5e4362bb1e56f4",
+  "version": "1.6.14",
+  "code": 55,
+  "apk": "blobs/e78bbce2373650569c5855d05791c88b46d4288a2012bcb21ce6514d61a00511.apk",
+  "sha256": "e78bbce2373650569c5855d05791c88b46d4288a2012bcb21ce6514d61a00511",
   "size": 56841391,
-  "notes": "\u2022 Culling time missed keyboard work (Keep / Discard keys are shortcuts): it counts now, so pace per decision is real."
+  "notes": "\u2022 Total and Culling time start at your first decision, not when the folder opened (startup, looking around)."
  }
 }
