@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.6.18",
-  "manifest": "manifests/1.6.18.json",
-  "notes": "\u2022 Big view and fullscreen: GIFs and videos play (they stood still on the first frame).\n\u2022 Grid: GIFs decoded at tile size - smoother with many on screen."
+  "version": "1.6.19",
+  "manifest": "manifests/1.6.19.json",
+  "notes": "\u2022 Grid: hover a video and its 2 s preview plays 3 times, then it stops. Hover a few and they play together (selecting one does the same)."
  },
  "android": {
-  "version": "1.6.18",
-  "code": 59,
-  "apk": "blobs/a7ed0bcdad8b8e840a2254855ca9ae3b7d129472fa3eb54a04dd0008b0a3e373.apk",
-  "sha256": "a7ed0bcdad8b8e840a2254855ca9ae3b7d129472fa3eb54a04dd0008b0a3e373",
+  "version": "1.6.19",
+  "code": 60,
+  "apk": "blobs/cd27a09a9f66d1fe8dfb050ad7b95a7939978682e705a19d623cbf0590322aaf.apk",
+  "sha256": "cd27a09a9f66d1fe8dfb050ad7b95a7939978682e705a19d623cbf0590322aaf",
   "size": 56841391,
-  "notes": "\u2022 Big view and fullscreen: GIFs and videos play (they stood still on the first frame).\n\u2022 Grid: GIFs decoded at tile size - smoother with many on screen."
+  "notes": "\u2022 Grid: hover a video and its 2 s preview plays 3 times, then it stops. Hover a few and they play together (selecting one does the same)."
  }
 }
