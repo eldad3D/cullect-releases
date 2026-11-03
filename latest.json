@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.6.14",
-  "manifest": "manifests/1.6.14.json",
-  "notes": "\u2022 Total and Culling time start at your first decision, not when the folder opened (startup, looking around)."
+  "version": "1.6.15",
+  "manifest": "manifests/1.6.15.json",
+  "notes": "\u2022 Culling time is now read from your actions (decisions, undos, photos opened): only gaps of 30 s or less count. It can no longer be more than Total, and older sessions are recalculated too."
  },
  "android": {
-  "version": "1.6.14",
-  "code": 55,
-  "apk": "blobs/e78bbce2373650569c5855d05791c88b46d4288a2012bcb21ce6514d61a00511.apk",
-  "sha256": "e78bbce2373650569c5855d05791c88b46d4288a2012bcb21ce6514d61a00511",
+  "version": "1.6.15",
+  "code": 56,
+  "apk": "blobs/889f2af05a87bdf379f1857cdc0815b74175138527304612aec41998b5451a8a.apk",
+  "sha256": "889f2af05a87bdf379f1857cdc0815b74175138527304612aec41998b5451a8a",
   "size": 56841391,
-  "notes": "\u2022 Total and Culling time start at your first decision, not when the folder opened (startup, looking around)."
+  "notes": "\u2022 Culling time is now read from your actions (decisions, undos, photos opened): only gaps of 30 s or less count. It can no longer be more than Total, and older sessions are recalculated too."
  }
 }
