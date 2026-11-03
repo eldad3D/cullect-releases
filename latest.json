@@ -1,15 +1,15 @@
 {
  "desktop": {
-  "version": "1.6.16",
-  "manifest": "manifests/1.6.16.json",
-  "notes": "\u2022 HEIC / HEIF photos show their picture (they said \"No preview\"). Also GIF, PSD, MPO, AVIF.\n\u2022 Videos (MP4 / MOV / M4V) are in your folders now, with a frame as their thumbnail.\n\u2022 In the viewer GIFs play and videos loop their first 2 seconds (silent). Alt+Q (or right-click): the whole video with sound / pause / play.\n\u2022 \u2699 menu \u2192 Play GIFs & videos: off = they stay still."
+  "version": "1.6.17",
+  "manifest": "manifests/1.6.17.json",
+  "notes": "\u2022 Videos (MP4 / MOV): the picture plays now, not only the sound; starts in a fraction of a second. H.264, H.265 (HEVC), VP9, AV1, ProRes.\n\u2022 GIFs play in the grid (the ones on screen) and the selected video loops its first 2 s there.\n\u2022 Media filter: Photo \u00b7 Animation (GIF) \u00b7 Video.\n\u2022 Play toggle button next to \u24d8 at the bottom (same as \u2699 \u2192 Play GIFs & videos). \u24d8 = hover for the keyboard keys."
  },
  "android": {
-  "version": "1.6.16",
-  "code": 57,
-  "apk": "blobs/349d04d6cfeca7a72956af47e4e8d3e13cbacd49cd3536c1c48aaf998888fb39.apk",
-  "sha256": "349d04d6cfeca7a72956af47e4e8d3e13cbacd49cd3536c1c48aaf998888fb39",
+  "version": "1.6.17",
+  "code": 58,
+  "apk": "blobs/8d799ff6c8f338129366fb0116627deae54110a7a13a8006697846cd1d0d4ff3.apk",
+  "sha256": "8d799ff6c8f338129366fb0116627deae54110a7a13a8006697846cd1d0d4ff3",
   "size": 56841391,
-  "notes": "\u2022 HEIC / HEIF photos show their picture (they said \"No preview\"). Also GIF, PSD, MPO, AVIF.\n\u2022 Videos (MP4 / MOV / M4V) are in your folders now, with a frame as their thumbnail.\n\u2022 In the viewer GIFs play and videos loop their first 2 seconds (silent). Alt+Q (or right-click): the whole video with sound / pause / play.\n\u2022 \u2699 menu \u2192 Play GIFs & videos: off = they stay still."
+  "notes": "\u2022 Videos (MP4 / MOV): the picture plays now, not only the sound; starts in a fraction of a second. H.264, H.265 (HEVC), VP9, AV1, ProRes.\n\u2022 GIFs play in the grid (the ones on screen) and the selected video loops its first 2 s there.\n\u2022 Media filter: Photo \u00b7 Animation (GIF) \u00b7 Video.\n\u2022 Play toggle button next to \u24d8 at the bottom (same as \u2699 \u2192 Play GIFs & videos). \u24d8 = hover for the keyboard keys."
  }
 }
